@@ -5,7 +5,7 @@ cámara como hijo del player para poder desplazarse cómodamente en el interior 
 
 Para jugar al juego en la página web:
 
-![CLICK HERE](https://nrosm.itch.io/actividad-1-creacin-de-un-laberinto)
+[link del juego](https://nrosm.itch.io/actividad-1-creacin-de-un-laberinto)
 
 
 Así se debería de ver el proyecto abierto desde Unity:
